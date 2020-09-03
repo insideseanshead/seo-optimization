@@ -1,4 +1,4 @@
-/* General design Elements */
+/* General design Elements (Background colors and basic text styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -75,7 +75,7 @@ a {
     margin-left: 25px;
 }
 
-/* Style for <main> element */
+/* Style for <main> element (consolidated also changed all three rows to share same class to style all at once.*/
 main {
     width: 75%;
     display: inline-block;
